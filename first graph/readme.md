@@ -18,6 +18,6 @@
 
 ##### 순번을 경로로 바꿔준후, 오른쪽 마우스 클릭하여 차원으로 변경!!
 ![7](https://user-images.githubusercontent.com/95010590/143675476-15968c6e-b05b-4378-9d26-7917595de9d7.jpg)
-![8](https://user-images.githubusercontent.com/95010590/143675477-d982626b-e6ee-4bd9-ba2e-a3373e3309c1.jpg)\
+![8](https://user-images.githubusercontent.com/95010590/143675477-d982626b-e6ee-4bd9-ba2e-a3373e3309c1.jpg)
 ##### 쨘! 지하철노선 모양 완성
 ![9](https://user-images.githubusercontent.com/95010590/143675478-27c976af-74c2-4cb5-936a-4ff51419f3fe.jpg)
