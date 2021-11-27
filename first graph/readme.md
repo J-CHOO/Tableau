@@ -67,6 +67,28 @@
 ![image](https://user-images.githubusercontent.com/95010590/143678857-0b416b78-1f07-492f-8f11-17fb0d8128c8.png)
 ##### 두번째 Lng도 Sub노선명(그룹)으로 바꿔주도록한다.
 ![image](https://user-images.githubusercontent.com/95010590/143678884-6b22adc1-70a1-4672-a0f2-e18d300383c7.png)
+##### 첫번째 이슈 해결!!
+![image](https://user-images.githubusercontent.com/95010590/143678986-e75cf916-12c1-4516-b78a-8da84a3b4335.png)
+
+### 두번째 이슈발생(환승역에서는 데이터가 원이 두개로 보인다.)
+![image](https://user-images.githubusercontent.com/95010590/143679023-47a3a164-208c-4bc6-b776-4241de3ea79c.png)
+##### 두번째 Lng 마크에서 합계(일간이용자수)에 우클릭-> 측정값을 평균으로 바꿔준다. (환승역에서 서로 다른 노선에 대해 평균으로 합쳐버린다)
+![image](https://user-images.githubusercontent.com/95010590/143679096-dae305b2-18b7-428b-93a9-f69298445056.png)
+##### 두번째 이슈 해결!!
+![image](https://user-images.githubusercontent.com/95010590/143679112-bf5df2e8-c9fd-4309-b95d-aff197b22213.png)
+### 디자인 작업
+##### 맵 -> 배경맵 -> 일반으로 바꿔서 강도 보이고 좀더 지도를 컬러풀하게 바꿈
+![image](https://user-images.githubusercontent.com/95010590/143679128-a149ea42-111a-47c6-99b4-f602727161ff.png)
+##### 첫번째 Lng 마크에서 라인 크기를 조절하여 노선이 더 두드러지게 수정
+![image](https://user-images.githubusercontent.com/95010590/143679164-889c77c1-ceb8-4c91-97ae-658e64c3d516.png)
+##### 각 지하철 별로 색상을 맞춰준다.
+##### 노선명 범례에서 우클릭 후 색상 편집
+![image](https://user-images.githubusercontent.com/95010590/143679200-0a9b9e2c-25d9-495e-93d1-a4a5fe380790.png)
+##### 색상적용 후 확인!!
+![image](https://user-images.githubusercontent.com/95010590/143679218-79ea0fe5-55ca-4890-90e7-83395721b012.png)
+### 최종 결과물
+![image](https://user-images.githubusercontent.com/95010590/143679233-e483807d-ae6d-4740-a400-f7d4a0471c37.png)
+
 
 
 
