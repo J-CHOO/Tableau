@@ -63,5 +63,11 @@
 ##### 그룹화명 부분에 메인노선의 이름을 적은 후 확인(1호선 말고 다른 노선들도 동일하게 작업)
 ![image](https://user-images.githubusercontent.com/95010590/143678385-69e39325-acbb-469f-a3de-7f2c67383894.png)
 
+##### 자 이제 다시 마크를 바꿔보도록 하자. 첫번째 Lng부터 (중요!!) Sub노선명(그룹)은 색상만 적용이 되면 되므로 꼭 색상만 그룹으로 바꿔주도록한다
+![image](https://user-images.githubusercontent.com/95010590/143678857-0b416b78-1f07-492f-8f11-17fb0d8128c8.png)
+##### 두번째 Lng도 Sub노선명(그룹)으로 바꿔주도록한다.
+![image](https://user-images.githubusercontent.com/95010590/143678884-6b22adc1-70a1-4672-a0f2-e18d300383c7.png)
+
+
 
 
