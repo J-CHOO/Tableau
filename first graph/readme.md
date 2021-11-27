@@ -86,7 +86,7 @@
 ![image](https://user-images.githubusercontent.com/95010590/143679200-0a9b9e2c-25d9-495e-93d1-a4a5fe380790.png)
 ##### 색상적용 후 확인!!
 ![image](https://user-images.githubusercontent.com/95010590/143679218-79ea0fe5-55ca-4890-90e7-83395721b012.png)
-### 첫번째 최종 결과물
+### 첫번째 최종이 될  결과물
 ![image](https://user-images.githubusercontent.com/95010590/143679233-e483807d-ae6d-4740-a400-f7d4a0471c37.png)
 
 
