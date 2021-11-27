@@ -86,8 +86,36 @@
 ![image](https://user-images.githubusercontent.com/95010590/143679200-0a9b9e2c-25d9-495e-93d1-a4a5fe380790.png)
 ##### 색상적용 후 확인!!
 ![image](https://user-images.githubusercontent.com/95010590/143679218-79ea0fe5-55ca-4890-90e7-83395721b012.png)
-### 첫번째 최종이 될  결과물
+### 첫번째 결과물
 ![image](https://user-images.githubusercontent.com/95010590/143679233-e483807d-ae6d-4740-a400-f7d4a0471c37.png)
+
+### 세번째 이슈 발생(팀원들과 회의 후 일간 이용자 수 차이가 크게 보이는 역은 애초에 원래 사람이 많은 역이니까 차이가 당연히 큰게 아니냐는 문제를 제기, 그래서 이용자 변화율로 데이터를 변경하기로 했다.)
+
+### 전처리 완료한 두번째 데이터 형태
+![image](https://user-images.githubusercontent.com/95010590/143679544-ba85ddd3-edeb-410a-91ec-a3d8a9e8d287.png)
+
+##### 위에 했던 과정을 똑같이 해서 데이터를 이용자변화율로 변경
+![image](https://user-images.githubusercontent.com/95010590/143679651-12c1c5ca-159a-421a-ab0c-1494a3086470.png)
+
+##### 각 역의 값의 변화 차이를 보기 위해 이용자변화율(평균)을 마크에 색상으로 하나 더 추가해주자
+![image](https://user-images.githubusercontent.com/95010590/143679729-0a61c08d-61b5-4706-93c4-1432c6783605.png)
+
+##### 변화율이 큰 값(많이 증가 했거나, 많이 감소했거나)은 원이 더 크게 보이게 하고싶다. 빨간게 잘 보이지가 않는다...
+![image](https://user-images.githubusercontent.com/95010590/143679862-82c1ec8d-562f-4109-ad86-a6993e6f7438.png)
+
+##### 평균(이용자변화율) 범례에서 크기 편집을 누른다 
+![image](https://user-images.githubusercontent.com/95010590/143679929-80d9f0d7-7807-4e18-9832-81b3e2bd10af.png)
+
+##### 크기 범위에서 '0에서' 클릭후 확인!
+![image](https://user-images.githubusercontent.com/95010590/143679949-955f5c6a-811d-492a-8ac0-71e8a62df84d.png)
+
+##### 이제 변화율이 큰 역은 명확히 보이기 시작했다!!
+![image](https://user-images.githubusercontent.com/95010590/143680015-9a24d1a5-6c2e-4e1d-8b4b-b8cf7b457636.png)
+
+##### 최종 완성본!!
+![image](https://user-images.githubusercontent.com/95010590/143680030-e837b488-5e26-493a-abb6-92f31080e21e.png)
+https://public.tableau.com/app/profile/.20303103/viz/4_16375655339720/1
+
 
 
 
