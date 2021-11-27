@@ -21,3 +21,17 @@
 ![8](https://user-images.githubusercontent.com/95010590/143675477-d982626b-e6ee-4bd9-ba2e-a3373e3309c1.jpg)
 ##### 쨘! 지하철노선 모양 완성
 ![9](https://user-images.githubusercontent.com/95010590/143675478-27c976af-74c2-4cb5-936a-4ff51419f3fe.jpg)
+
+### 역별 지하철 일간이용자수 시각화
+##### Lng를 끌어서 열에다가 하나 더 추가해준다
+![10](https://user-images.githubusercontent.com/95010590/143675714-80c16574-3814-4318-9049-7fca37003354.jpg)
+
+##### 두번째 Lng의 마크에서 체크표시 되어있는 부분을 눌러 원으로 바꾼다
+![11](https://user-images.githubusercontent.com/95010590/143675797-26962152-11f5-4327-95ea-09b606e454d2.jpg)
+
+##### 마크에 역명과 일간이용자수차이를 넣고 각각 레이블과 크기로 바꿔준다
+![12](https://user-images.githubusercontent.com/95010590/143677430-ce7db1d2-a463-4dbc-94e0-fa9abb3a0065.jpg)
+
+##### 두번째 Lng에 오른쪽마우스를 눌러 '이중축'을 설정해주면 노선 라인위에 각 역별로 이용자수 차이가 원으로 보여지게 된다
+![13](https://user-images.githubusercontent.com/95010590/143677517-2ec0dce6-f89f-4a1e-94e9-ce3567988b6a.jpg)
+![14](https://user-images.githubusercontent.com/95010590/143677520-6139b668-6e41-4ef6-a8b4-adacb1a423b7.jpg)
