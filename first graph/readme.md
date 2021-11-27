@@ -9,6 +9,7 @@
 ##### 데이터 csv 파일을 끌어다 넣어준다
 ![파일 넣기](https://user-images.githubusercontent.com/95010590/143674857-8d2d33a8-6eb9-40ea-8966-98cf2c24f52e.jpg)
 
+### 좌표 맵핑하여 지하철 노선모양 만들기
 ##### 위도, 경도를 이용해 맵핑을 해야 하므로 Lat,Lng의 데이터 유형을 위도, 경도로 바꿔준다
 ![20211127_175441](https://user-images.githubusercontent.com/95010590/143674979-dda3a59c-cc48-4a99-ace0-79f0f3eb99ed.jpg)
 
