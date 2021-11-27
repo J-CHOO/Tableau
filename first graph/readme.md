@@ -35,3 +35,16 @@
 ##### 두번째 Lng에 오른쪽마우스를 눌러 '이중축'을 설정해주면 노선 라인위에 각 역별로 이용자수 차이가 원으로 보여지게 된다
 ![13](https://user-images.githubusercontent.com/95010590/143677517-2ec0dce6-f89f-4a1e-94e9-ce3567988b6a.jpg)
 ![14](https://user-images.githubusercontent.com/95010590/143677520-6139b668-6e41-4ef6-a8b4-adacb1a423b7.jpg)
+
+##### 원이 시각적으로 더 잘 보이게 하기위해 색상을 주황색으로, 테두리까지 넣어줬다.
+![15](https://user-images.githubusercontent.com/95010590/143677699-b03b143d-92e3-4acf-8c75-ddb67058b2f0.jpg)
+![16](https://user-images.githubusercontent.com/95010590/143677703-21dcf702-efd0-4746-acb8-1609e5f52287.jpg)
+
+##### 하지만 원이 아직 이용자수 차이를 확연히 보여주지 않으므로, 차이가 큰 역을 더 돋보이게 하기위해 크기를 조정해준다.
+##### 옆에 일간이용자수차이 범례에서 오른쪽마우스를 눌러 크기 편집에 들어간다.
+![17](https://user-images.githubusercontent.com/95010590/143677794-05be5622-3fe6-47d8-bc36-4d1e2720ee43.jpg)
+##### 크기범위를 0에서부터로 변경해준 후 확인!!
+![18](https://user-images.githubusercontent.com/95010590/143677856-74a398c0-b7af-485d-98e8-479ee7f87d73.jpg)
+##### 크기가 조절이 되었다. 하지만 좀 작네?!
+![19](https://user-images.githubusercontent.com/95010590/143677857-9ec99a71-baf5-4cd4-ba3e-8f2bd42a2c5b.jpg)
+
