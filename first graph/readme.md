@@ -48,3 +48,5 @@
 ##### 크기가 조절이 되었다. 하지만 좀 작네?!
 ![19](https://user-images.githubusercontent.com/95010590/143677857-9ec99a71-baf5-4cd4-ba3e-8f2bd42a2c5b.jpg)
 
+##### 오 이제 각 차이가 큰역은 확실히 좀 보이기 시작했다.
+![image](https://user-images.githubusercontent.com/95010590/143677978-7289f51f-8168-406b-946e-234471dabd48.png)
