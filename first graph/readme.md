@@ -48,5 +48,20 @@
 ##### 크기가 조절이 되었다. 하지만 좀 작네?!
 ![19](https://user-images.githubusercontent.com/95010590/143677857-9ec99a71-baf5-4cd4-ba3e-8f2bd42a2c5b.jpg)
 
-##### 오 이제 각 차이가 큰역은 확실히 좀 보이기 시작했다.
-![image](https://user-images.githubusercontent.com/95010590/143677978-7289f51f-8168-406b-946e-234471dabd48.png)
+##### 크기를 클릭! 사이즈 조절! -> 오 이제 각 차이가 큰역은 확실히 좀 보이기 시작했다.
+![image](https://user-images.githubusercontent.com/95010590/143678025-934d07b3-a0a5-4d64-9683-a29ed01362e9.png)
+
+### 첫번째 이슈발생(노선에서 호선명 A,B...로 구분된 가지 노선의 처리가 되지 않았다(2호선을 누르면 전부 다 보여야하는데 따로따로 보임))
+![image](https://user-images.githubusercontent.com/95010590/143678170-1793de56-6489-49f6-92f2-12eeaca2dda9.png)
+![image](https://user-images.githubusercontent.com/95010590/143678182-5fdad866-b180-4f95-b198-48158681d2d9.png)
+
+### 가지노선 그룹화 작업(가지노선들을 메인노선의 이름만으로 보여지게 처리)
+##### sub노선명을 우클릭 후 만들기 -> 그룹으로 들어간다
+![image](https://user-images.githubusercontent.com/95010590/143678289-7f3991d4-2cfd-4d91-b7a4-3808dc6d877d.png)
+##### Ctrl을 누른후 가지노선들을 모두 선택하여 그룹을 누른다
+![image](https://user-images.githubusercontent.com/95010590/143678338-21a28612-4292-44be-8510-65b4b83840d3.png)
+##### 그룹화명 부분에 메인노선의 이름을 적은 후 확인(1호선 말고 다른 노선들도 동일하게 작업)
+![image](https://user-images.githubusercontent.com/95010590/143678385-69e39325-acbb-469f-a3de-7f2c67383894.png)
+
+
+
