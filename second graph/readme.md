@@ -83,8 +83,10 @@
 ![image](https://user-images.githubusercontent.com/95010590/143854368-60edcfc2-f2cd-4975-9d25-cedf9646aea9.png)
 ##### 그리고 X,Y 좌표는 없애주고, 잠깐 나가서 위에 데이터 전체호선을 누르고 '피벗 필드 값'을 마크에 추가해준다.
 ![image](https://user-images.githubusercontent.com/95010590/143854651-541af392-ea12-4a53-8a2d-86dfd355f0d5.png)
-#### 그리고 삽입을 누르면 밑에 합계(피벗 필드 값)이 뜨게 된다. 클릭해주자
-
+##### 그리고 삽입을 누르면 밑에 합계(피벗 필드 값)이 뜨게 된다. 클릭해주자
+![image](https://user-images.githubusercontent.com/95010590/143855098-5e65fab0-ec46-44da-b69a-2defa3e6f255.png)
+##### 마지막으로 앞에 "역 전체 이용객수 :"를 붙여주고 확인
+![image](https://user-images.githubusercontent.com/95010590/143855216-24d7c9ad-4600-4014-8bdc-83239ca78cd2.png)
 
 
 
