@@ -41,7 +41,7 @@
 ![image](https://user-images.githubusercontent.com/95010590/143829268-c45c98af-be81-4239-b385-debaf7941a35.png)
 ##### 데이터를 새로 또 추가해야 하므로, 위에 데이터 -> 새 데이터 원본을 눌러준다.
 ![image](https://user-images.githubusercontent.com/95010590/143829385-69393dea-041f-4ffb-9ff4-ab78c6386baa.png)
-##### Microsoft Excel 클릭하여 파일을 불러와준다.
+##### Microsoft Excel 클릭하여 '전체호선'파일을 불러와준다.
 ![image](https://user-images.githubusercontent.com/95010590/143829772-54a3b034-6570-4611-b72c-27a38977bc7f.png)
 
 #### (중요!!)데이터를 보면 시간대별로 컬럼이 각각 다 따로 놀고있는데, 나중에 그래프를 그릴때 시간에 대한 정보를 모두 한번에 보여줘야 하므로 '피벗' 기능으로 시간 컬럼들을 모두 묶어준다.
