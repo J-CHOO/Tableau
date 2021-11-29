@@ -27,3 +27,22 @@
 ##### 이렇게 완성한 노선도 좌표작업 완료!
 ![image](https://user-images.githubusercontent.com/95010590/143824383-fb45119b-c23d-440a-87f8-acb361ed2ae0.png)
 
+### 좌표 적용 후 노선도
+##### 위에서와 똑같이 X, Y값을 넣어준 후 배경맵 이미지 적용한 후 마크에 역명을 넣어주게 되면 이렇게 우리가 원하는 역에 좌표값이 들어가게 된다.
+![image](https://user-images.githubusercontent.com/95010590/143826064-096e610c-0af7-4e44-a995-8a019d91bb25.png)
+##### 원크기가 좀 크므로 살짝 줄여준다
+![image](https://user-images.githubusercontent.com/95010590/143826310-1ddbf198-2759-4d27-b1a0-89e0d7798d0d.png)
+
+### 지하철역 요일별 시간에 따른 승하차수 그래프 그리기
+#### 전처리 완료한 데이터(지하철역 요일별 시간에 따른 승하차수 데이터)
+![image](https://user-images.githubusercontent.com/95010590/143829145-97c2df81-c50b-42dd-856e-c39d2b51e6e5.png)
+
+##### 새 시트를 추가해준다.
+![image](https://user-images.githubusercontent.com/95010590/143829268-c45c98af-be81-4239-b385-debaf7941a35.png)
+##### 데이터를 새로 또 추가해야 하므로, 위에 데이터 -> 새 데이터 원본을 눌러준다.
+![image](https://user-images.githubusercontent.com/95010590/143829385-69393dea-041f-4ffb-9ff4-ab78c6386baa.png)
+
+
+
+
+
