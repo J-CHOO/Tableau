@@ -41,6 +41,29 @@
 ![image](https://user-images.githubusercontent.com/95010590/143829268-c45c98af-be81-4239-b385-debaf7941a35.png)
 ##### 데이터를 새로 또 추가해야 하므로, 위에 데이터 -> 새 데이터 원본을 눌러준다.
 ![image](https://user-images.githubusercontent.com/95010590/143829385-69393dea-041f-4ffb-9ff4-ab78c6386baa.png)
+##### Microsoft Excel 클릭하여 파일을 불러와준다.
+![image](https://user-images.githubusercontent.com/95010590/143829772-54a3b034-6570-4611-b72c-27a38977bc7f.png)
+
+#### (중요!!)데이터를 보면 시간대별로 컬럼이 각각 다 따로 놀고있는데, 나중에 그래프를 그릴때 시간에 대한 정보를 모두 한번에 보여줘야 하므로 '피벗' 기능으로 시간 컬럼들을 모두 묶어준다.
+##### 모든 시간 컬럼을 Shift를 눌러서 모두 선택해주고, 우클릭 후 '피벗'을 눌러준다.
+![image](https://user-images.githubusercontent.com/95010590/143830389-47d11643-6865-44ab-9ed8-922ef7d44a60.png)
+##### 그러면 이렇게 피벗 컬럼으로 시간 컬럼이 모두 묶이게 된다.
+![image](https://user-images.githubusercontent.com/95010590/143830530-9136ec70-c27b-494c-a654-cfd9ac403309.png)
+
+##### 이제 데이터 정리가 끝이 났으면, 시트 2로 가준다.
+![image](https://user-images.githubusercontent.com/95010590/143830676-b6b7e2c8-8949-4049-a554-540eee54024c.png)
+
+##### 열에 피벗 필드명(시간을 피벗으로 묶은 컬럼), 구분(승차, 하차)으로 넣어주고 행에 역명, 호선, 피벗 필드 값(각 시간대 '인원수' 데이터)를 넣어준다.
+![image](https://user-images.githubusercontent.com/95010590/143832435-1128576c-1980-4a34-a74e-41edc05a582b.png)
+##### 승차, 하차가 색으로 구분이 되었으면 좋겠다. 마크에 구분을 넣어 색상으로 바꿔준다.
+![image](https://user-images.githubusercontent.com/95010590/143832571-22d4bddd-d652-4acd-978e-09075591858f.png)
+##### 쨘! 파란색이 승차, 주황색이 하차로 그래프가 구별이 되었다.
+![image](https://user-images.githubusercontent.com/95010590/143833131-76386ba1-e9de-400d-b2ae-b46edc688f4a.png)
+##### 지저분한 머리글은 없애주도록 하자.
+![image](https://user-images.githubusercontent.com/95010590/143833093-0212d8fc-c4aa-4e06-a7d8-b4949e54c654.png)
+
+
+
 
 
 
