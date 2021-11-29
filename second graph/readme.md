@@ -61,6 +61,31 @@
 ![image](https://user-images.githubusercontent.com/95010590/143833131-76386ba1-e9de-400d-b2ae-b46edc688f4a.png)
 ##### 지저분한 머리글은 없애주도록 하자.
 ![image](https://user-images.githubusercontent.com/95010590/143833093-0212d8fc-c4aa-4e06-a7d8-b4949e54c654.png)
+##### 쨘! 색도 빨간색으로 바꿔주었다.
+![image](https://user-images.githubusercontent.com/95010590/143846862-6c5e40f2-1c8c-48d9-8079-0d05f068eb88.png)
+
+### 노선도 위 각 역 좌표안에 그래프 넣어주기
+##### 첫번째 시트에서 마크에 도구설명을 눌러준다
+![image](https://user-images.githubusercontent.com/95010590/143852999-f8bf9047-3888-4068-b9d4-37069ceb76c9.png)
+##### 도구 설명 편집에서 삽입 -> 시트 -> 시트 2를 눌러준다.
+![image](https://user-images.githubusercontent.com/95010590/143853214-a68bbe79-b9d2-42ed-a9a7-34e2ab45898f.png)
+##### 엔터로 위에 역명과 구분해주고 확인!
+![image](https://user-images.githubusercontent.com/95010590/143853357-432bd056-0f83-4c20-b81a-e1e0140eb99b.png)
+##### 역위에 마우스를 올리면 뭔가 나오기는 하지만, 뷰가 너무 커서 표시할수 없단다...
+![image](https://user-images.githubusercontent.com/95010590/143853525-07aef696-13b6-4fdc-9b9e-89f3ae63e51b.png)
+##### 다시 도구 설명으로가서 maxwidth값과 maxheight값을 둘다 1000으로 바꿔준다.
+![image](https://user-images.githubusercontent.com/95010590/143853762-6b16a4f3-b35e-4b05-9aa5-b49e7e3daea2.png)
+##### 오 정상적으로 그래프가 다 나온다. 
+![image](https://user-images.githubusercontent.com/95010590/143853932-2c22d1c9-2d29-40f2-8b9f-686c7efd7137.png)
+
+#### 그다음 역명의 크기도 좀 키우고, 좌표는 딱히 필요가 없는 정보므로 없애버리고, 그 역의 총 승하차인원을 정보로 넣어보자
+##### 먼저 도구설명으로 가서, 역명을 이름만 나올수 있게 '역명:'는 지워버리고 <역명>만 남겨주고 글자크기를 20으로 키워준다.
+![image](https://user-images.githubusercontent.com/95010590/143854368-60edcfc2-f2cd-4975-9d25-cedf9646aea9.png)
+##### 그리고 X,Y 좌표는 없애주고, 잠깐 나가서 위에 데이터 전체호선을 누르고 '피벗 필드 값'을 마크에 추가해준다.
+![image](https://user-images.githubusercontent.com/95010590/143854651-541af392-ea12-4a53-8a2d-86dfd355f0d5.png)
+#### 그리고 삽입을 누르면 밑에 합계(피벗 필드 값)이 뜨게 된다. 클릭해주자
+
+
 
 
 
